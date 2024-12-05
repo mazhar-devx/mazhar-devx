@@ -1,4 +1,4 @@
-![logo](https://github.com/MubassamAli/MubassamAli/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/mazhar-devx/mazhar-devx/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mazhar Aslam</h1>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
