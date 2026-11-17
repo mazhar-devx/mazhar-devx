@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1A2F"/><stop offset=".55" stop-color="#07101C"/><stop offset="1" stop-color="#120D2A"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="240" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="238" rx="27" fill="none" stroke="#1B2A40"/>
+<rect x="48" y="34" width="74" height="28" rx="14" fill="url(#ac)"/>
+<text x="85.0" y="53" text-anchor="middle" fill="#04101C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.5">LIVE</text>
+<text x="140" y="58" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="800">Skills &amp; Career</text>
+<text x="72" y="108" fill="#8FA3BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">A live web project focused on skills and career growth.</text>
+<text x="72" y="136" fill="#8FA3BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">Hosted on Netlify.</text>
+<text x="72" y="168" fill="#22D3EE" font-family="Consolas, Menlo, monospace" font-size="14">skills-career.netlify.app</text>
+<rect x="72" y="184" width="86" height="30" rx="15" fill="#0E1D33" stroke="#22D3EE" stroke-opacity="0.35"/><text x="115.0" y="204" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Frontend</text><rect x="168" y="184" width="79" height="30" rx="15" fill="#0E1D33" stroke="#22D3EE" stroke-opacity="0.35"/><text x="207.5" y="204" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Netlify</text><rect x="257" y="184" width="56" height="30" rx="15" fill="#0E1D33" stroke="#22D3EE" stroke-opacity="0.35"/><text x="285.0" y="204" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Live</text>
+<text x="1140" y="150" text-anchor="end" fill="#22D3EE" fill-opacity=".08" font-family="Consolas, Menlo, monospace" font-size="150" font-weight="700">&lt;/&gt;</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1A2F"/><stop offset=".55" stop-color="#07101C"/><stop offset="1" stop-color="#120D2A"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="200" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="198" rx="27" fill="none" stroke="#1B2A40"/>
+<rect x="48" y="0" width="4" height="200" fill="url(#ac)"/>
+<rect x="0" y="197" width="1200" height="3" fill="url(#sh)"/>
+<text x="1140" y="150" text-anchor="end" fill="#22D3EE" fill-opacity=".10" font-family="Consolas, Menlo, monospace" font-size="130" font-weight="700">06</text>
+<text x="80" y="92" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800">Connect</text>
+<text x="80" y="136" fill="#8FA3BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21">Let’s build something worth shipping.</text>
+</svg>

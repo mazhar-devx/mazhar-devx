@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1A2F"/><stop offset=".55" stop-color="#07101C"/><stop offset="1" stop-color="#120D2A"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#1B2A40"/>
+<text x="56" y="76" fill="#22D3EE" font-family="Consolas, Menlo, monospace" font-size="18">const <tspan fill="#EAF2FF">developer</tspan> = {</text>
+<g font-family="Consolas, Menlo, monospace" font-size="19">
+<text x="92" y="116" fill="#8FA3BF">name:  <tspan fill="#A5F3C4">"Muhammad Mazhar Aslam"</tspan>,</text>
+<text x="92" y="148" fill="#8FA3BF">alias: <tspan fill="#A5F3C4">"DevX"</tspan>,</text>
+<text x="92" y="180" fill="#8FA3BF">role:  <tspan fill="#A5F3C4">"Full-Stack Developer"</tspan>,</text>
+<text x="92" y="212" fill="#8FA3BF">stack: [<tspan fill="#A5F3C4">"MERN"</tspan>, <tspan fill="#A5F3C4">"TypeScript"</tspan>, <tspan fill="#A5F3C4">"Python"</tspan>, <tspan fill="#A5F3C4">"C++"</tspan>],</text>
+<text x="92" y="244" fill="#8FA3BF">focus: [<tspan fill="#A5F3C4">"Scalable apps"</tspan>, <tspan fill="#A5F3C4">"Cloud"</tspan>, <tspan fill="#A5F3C4">"Automation"</tspan>],</text>
+</g>
+<text x="56" y="276" fill="#22D3EE" font-family="Consolas, Menlo, monospace" font-size="18">};</text>
+<rect x="760" y="44" width="1" height="212" fill="#1B2A40"/>
+<text x="800" y="96" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">I turn ideas into products.</text>
+<g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#8FA3BF">
+<text x="800" y="136">I’m a full-stack developer who loves</text>
+<text x="800" y="162">building projects that solve real-world</text>
+<text x="800" y="188">problems — from clean React front ends</text>
+<text x="800" y="214">to Node.js back ends and cloud deploys.</text>
+</g>
+<rect x="800" y="236" width="140" height="3" rx="1.5" fill="url(#ac)"/>
+</svg>

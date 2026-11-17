@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1A2F"/><stop offset=".55" stop-color="#07101C"/><stop offset="1" stop-color="#120D2A"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="180" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="178" rx="27" fill="none" stroke="#1B2A40"/>
+<rect x="0" y="0" width="1200" height="3" fill="url(#sh)"/>
+<text x="600" y="76" text-anchor="middle" fill="#EAF2FF" font-family="Consolas, Menlo, monospace" font-size="34" font-weight="800">Muhammad Mazhar Aslam <tspan fill="#22D3EE">&lt;DevX /&gt;</tspan></text>
+<text x="600" y="116" text-anchor="middle" fill="#8FA3BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19">Shipping full-stack products — one commit at a time.</text>
+<text x="600" y="150" text-anchor="middle" fill="#22D3EE" fill-opacity=".7" font-family="Consolas, Menlo, monospace" font-size="14">while (alive) { learn(); build(); ship(); }</text>
+</svg>
