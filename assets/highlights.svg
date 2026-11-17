@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="28" fill="#141418"/>
+  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#2A2A32"/>
+  
+  <rect x="40" y="36" width="350" height="100" rx="20" fill="#0B0B0F" stroke="#2A2A32"/>
+  <circle cx="76" cy="86" r="10" fill="#E5132B"/>
+  <text x="102" y="80" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">LancerTech</text>
+  <text x="102" y="110" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Full-Stack since 2024</text>
+  <rect x="420" y="36" width="350" height="100" rx="20" fill="#0B0B0F" stroke="#2A2A32"/>
+  <circle cx="456" cy="86" r="10" fill="#E5132B"/>
+  <text x="482" y="80" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Zero Downtime</text>
+  <text x="482" y="110" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Hostinger → GoDaddy</text>
+  <rect x="800" y="36" width="350" height="100" rx="20" fill="#0B0B0F" stroke="#2A2A32"/>
+  <circle cx="836" cy="86" r="10" fill="#E5132B"/>
+  <text x="862" y="80" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">NAVTTC Trainer</text>
+  <text x="862" y="110" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Web Dev teacher</text>
+  <rect x="40" y="156" width="350" height="100" rx="20" fill="#0B0B0F" stroke="#2A2A32"/>
+  <circle cx="76" cy="206" r="10" fill="#E5132B"/>
+  <text x="102" y="200" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Intl Freelance</text>
+  <text x="102" y="230" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="16">PK · KSA · AU</text>
+  <rect x="420" y="156" width="350" height="100" rx="20" fill="#0B0B0F" stroke="#2A2A32"/>
+  <circle cx="456" cy="206" r="10" fill="#E5132B"/>
+  <text x="482" y="200" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">University LMS</text>
+  <text x="482" y="230" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Admin/Teacher/Student</text>
+  <rect x="800" y="156" width="350" height="100" rx="20" fill="#0B0B0F" stroke="#2A2A32"/>
+  <circle cx="836" cy="206" r="10" fill="#E5132B"/>
+  <text x="862" y="200" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AI Agents</text>
+  <text x="862" y="230" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="16">Voice · n8n · Twilio</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <rect width="1200" height="280" rx="28" fill="#141418"/>
+  <rect x="1" y="1" width="1198" height="278" rx="27" fill="none" stroke="#2A2A32"/>
+  <rect x="0" y="0" width="8" height="280" fill="#E5132B" rx="4"/>
+  <text x="72" y="70" fill="#F4F1EC" font-family="Segoe UI, Arial, sans-serif" font-size="22">BSCS student at Riphah International University, Lahore (2022 – 2026).</text>
+<text x="72" y="106" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="18">Full-Stack Web Developer at LancerTech since Feb 2024 — React, PHP, Node.js, MySQL,</text>
+<text x="72" y="142" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="18">REST APIs, n8n automation, ElevenLabs voice agents, Twilio &amp; GoHighLevel CRM.</text>
+<text x="72" y="178" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="18">Freelance builds for clients across Pakistan, Saudi Arabia &amp; Australia.</text>
+<text x="72" y="214" fill="#A8A29E" font-family="Segoe UI, Arial, sans-serif" font-size="18">Primary languages: JavaScript (web) and C++. NAVTTC Web Development Trainer.</text>
+</svg>
